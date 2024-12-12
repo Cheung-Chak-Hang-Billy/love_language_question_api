@@ -6,8 +6,8 @@
 "我喜歡被擁抱的感覺。"
 ],
 "labels": [
-"Affirmation",
-"Physical Touch"
+"affirmation",
+"physicalTouch"
 ]
 },
 {
@@ -16,8 +16,8 @@
 "每當有人給我實際的幫助，我就會覺得他是愛我的。"
 ],
 "labels": [
-"Quality Time",
-"Acts of Service"
+"qualityTime",
+"actsOfService"
 ]
 },
 {
@@ -26,8 +26,8 @@
 "我喜歡和所愛的人去旅行，享受悠長假期。"
 ],
 "labels": [
-"Receiving Gift",
-"Quality Time"
+"receivingGift",
+"qualityTime"
 ]
 },
 {
@@ -36,8 +36,8 @@
 "我所愛的人觸碰我的身體，會讓我覺得被愛。"
 ],
 "labels": [
-"Acts of Service",
-"Physical Touch"
+"actsOfService",
+"physicalTouch"
 ]
 },
 {
@@ -46,8 +46,8 @@
 "當我所愛的人突然送禮物給我，我會有被愛的感覺。"
 ],
 "labels": [
-"Physical Touch",
-"Receiving Gift"
+"physicalTouch",
+"receivingGift"
 ]
 },
 {
@@ -56,8 +56,8 @@
 "我喜歡和在我心目中有特殊地位的人牽手或擊掌。"
 ],
 "labels": [
-"Quality Time",
-"Physical Touch"
+"qualityTime",
+"physicalTouch"
 ]
 },
 {
@@ -66,8 +66,8 @@
 "我喜歡聽到別人對我的肯定。"
 ],
 "labels": [
-"Receiving Gift",
-"Affirmation"
+"receivingGift",
+"affirmation"
 ]
 },
 {
@@ -76,8 +76,8 @@
 "我喜歡聽到我所喜歡的人說我很漂亮、很英俊或很有氣質。"
 ],
 "labels": [
-"Physical Touch",
-"Affirmation"
+"physicalTouch",
+"affirmation"
 ]
 },
 {
@@ -86,8 +86,8 @@
 "我喜歡收到所愛的人贈送的小禮物。"
 ],
 "labels": [
-"Quality Time",
-"Receiving Gift"
+"qualityTime",
+"receivingGift"
 ]
 },
 {
@@ -96,8 +96,8 @@
 "我喜歡我所愛的人幫我的忙。"
 ],
 "labels": [
-"Affirmation",
-"Acts of Service"
+"affirmation",
+"actsOfService"
 ]
 },
 {
@@ -106,8 +106,8 @@
 "聽到所愛的人對我說支持的話，我會很高興。"
 ],
 "labels": [
-"Quality Time",
-"Affirmation"
+"qualityTime",
+"affirmation"
 ]
 },
 {
@@ -116,8 +116,8 @@
 "擁抱讓我覺得與對方很親近，也覺得自己很重要。"
 ],
 "labels": [
-"Acts of Service",
-"Physical Touch"
+"actsOfService",
+"physicalTouch"
 ]
 },
 {
@@ -126,8 +126,8 @@
 "送我許多小禮物要比送我一份大禮物更能感動我。"
 ],
 "labels": [
-"Affirmation",
-"Receiving Gift"
+"affirmation",
+"receivingGift"
 ]
 },
 {
@@ -136,8 +136,8 @@
 "所愛的人若常常與我有身體的接觸，我會覺得與他很親近。"
 ],
 "labels": [
-"Quality Time",
-"Physical Touch"
+"qualityTime",
+"physicalTouch"
 ]
 },
 {
@@ -146,8 +146,8 @@
 "當別人勉強他自己去為我做一件事，我會覺得他很愛我。"
 ],
 "labels": [
-"Affirmation",
-"Acts of Service"
+"affirmation",
+"actsOfService"
 ]
 },
 {
@@ -156,8 +156,8 @@
 "我喜歡別人聽我說話，而且表現出興趣十足的樣子。"
 ],
 "labels": [
-"Physical Touch",
-"Quality Time"
+"physicalTouch",
+"qualityTime"
 ]
 },
 {
@@ -166,8 +166,8 @@
 "當拆開朋友或所愛的人送贈的禮物，我會覺得興奮。"
 ],
 "labels": [
-"Acts of Service",
-"Receiving Gift"
+"actsOfService",
+"receivingGift"
 ]
 },
 {
@@ -176,8 +176,8 @@
 "當別人願意花時間了解我的感受，我會有被愛的感覺。"
 ],
 "labels": [
-"Affirmation",
-"Quality Time"
+"affirmation",
+"qualityTime"
 ]
 },
 {
@@ -186,8 +186,8 @@
 "服務的行動讓我覺得被愛。"
 ],
 "labels": [
-"Physical Touch",
-"Acts of Service"
+"physicalTouch",
+"actsOfService"
 ]
 },
 {
@@ -196,8 +196,8 @@
 "我喜歡收到所愛的人為我做的禮物。"
 ],
 "labels": [
-"Acts of Service",
-"Receiving Gift"
+"actsOfService",
+"receivingGift"
 ]
 },
 {
@@ -206,8 +206,8 @@
 "我很喜歡被人服務的感覺。"
 ],
 "labels": [
-"Quality Time",
-"Acts of Service"
+"qualityTime",
+"actsOfService"
 ]
 },
 {
@@ -216,8 +216,8 @@
 "在我生日那天，有人對我說或寫出特別的話，我會覺得被愛。"
 ],
 "labels": [
-"Receiving Gift",
-"Affirmation"
+"receivingGift",
+"affirmation"
 ]
 },
 {
@@ -226,8 +226,8 @@
 "有人幫我做家務，我會覺得被愛。"
 ],
 "labels": [
-"Receiving Gift",
-"Acts of Service"
+"receivingGift",
+"actsOfService"
 ]
 },
 {
@@ -236,8 +236,8 @@
 "我很感激有人記得某個特別日子並且送我禮物。"
 ],
 "labels": [
-"Quality Time",
-"Receiving Gift"
+"qualityTime",
+"receivingGift"
 ]
 },
 {
@@ -246,8 +246,8 @@
 "我喜歡和在我心目中有特殊地位的人一起去逛街、旅行。"
 ],
 "labels": [
-"Acts of Service",
-"Quality Time"
+"actsOfService",
+"qualityTime"
 ]
 },
 {
@@ -256,8 +256,8 @@
 "有人不為了特別理由而送我禮物，我會覺得很開心。"
 ],
 "labels": [
-"Physical Touch",
-"Receiving Gift"
+"physicalTouch",
+"receivingGift"
 ]
 },
 {
@@ -266,8 +266,8 @@
 "與人交談時，我喜歡對方注視我的眼睛。"
 ],
 "labels": [
-"Affirmation",
-"Quality Time"
+"affirmation",
+"qualityTime"
 ]
 },
 {
@@ -276,8 +276,8 @@
 "朋友或所愛的人碰觸我的身體，那種感覺真好。"
 ],
 "labels": [
-"Receiving Gift",
-"Physical Touch"
+"receivingGift",
+"physicalTouch"
 ]
 },
 {
@@ -286,8 +286,8 @@
 "當別人說欣賞我，我會覺得被愛。"
 ],
 "labels": [
-"Acts of Service",
-"Affirmation"
+"actsOfService",
+"affirmation"
 ]
 },
 {
@@ -296,10 +296,9 @@
 "我每天都需要肯定的說話。"
 ],
 "labels": [
-"Physical Touch",
-"Affirmation"
+"physicalTouch",
+"affirmation"
 ]
 }
 ]
 }
-
