@@ -6,8 +6,8 @@
 "我喜歡被擁抱的感覺。"
 ],
 "labels": [
-"A",
-"E"
+"Affirmation",
+"Physical Touch"
 ]
 },
 {
@@ -16,8 +16,8 @@
 "每當有人給我實際的幫助，我就會覺得他是愛我的。"
 ],
 "labels": [
-"B",
-"D"
+"Quality Time",
+"Acts of Service"
 ]
 },
 {
@@ -26,8 +26,8 @@
 "我喜歡和所愛的人去旅行，享受悠長假期。"
 ],
 "labels": [
-"C",
-"B"
+"Receiving Gift",
+"Quality Time"
 ]
 },
 {
@@ -36,8 +36,8 @@
 "我所愛的人觸碰我的身體，會讓我覺得被愛。"
 ],
 "labels": [
-"D",
-"E"
+"Acts of Service",
+"Physical Touch"
 ]
 },
 {
@@ -46,8 +46,8 @@
 "當我所愛的人突然送禮物給我，我會有被愛的感覺。"
 ],
 "labels": [
-"E",
-"C"
+"Physical Touch",
+"Receiving Gift"
 ]
 },
 {
@@ -56,8 +56,8 @@
 "我喜歡和在我心目中有特殊地位的人牽手或擊掌。"
 ],
 "labels": [
-"B",
-"E"
+"Quality Time",
+"Physical Touch"
 ]
 },
 {
@@ -66,8 +66,8 @@
 "我喜歡聽到別人對我的肯定。"
 ],
 "labels": [
-"C",
-"A"
+"Receiving Gift",
+"Affirmation"
 ]
 },
 {
@@ -76,8 +76,8 @@
 "我喜歡聽到我所喜歡的人說我很漂亮、很英俊或很有氣質。"
 ],
 "labels": [
-"E",
-"A"
+"Physical Touch",
+"Affirmation"
 ]
 },
 {
@@ -86,8 +86,8 @@
 "我喜歡收到所愛的人贈送的小禮物。"
 ],
 "labels": [
-"B",
-"C"
+"Quality Time",
+"Receiving Gift"
 ]
 },
 {
@@ -96,8 +96,8 @@
 "我喜歡我所愛的人幫我的忙。"
 ],
 "labels": [
-"A",
-"D"
+"Affirmation",
+"Acts of Service"
 ]
 },
 {
@@ -106,8 +106,8 @@
 "聽到所愛的人對我說支持的話，我會很高興。"
 ],
 "labels": [
-"B",
-"A"
+"Quality Time",
+"Affirmation"
 ]
 },
 {
@@ -116,8 +116,8 @@
 "擁抱讓我覺得與對方很親近，也覺得自己很重要。"
 ],
 "labels": [
-"D",
-"E"
+"Acts of Service",
+"Physical Touch"
 ]
 },
 {
@@ -126,8 +126,8 @@
 "送我許多小禮物要比送我一份大禮物更能感動我。"
 ],
 "labels": [
-"A",
-"C"
+"Affirmation",
+"Receiving Gift"
 ]
 },
 {
@@ -136,8 +136,8 @@
 "所愛的人若常常與我有身體的接觸，我會覺得與他很親近。"
 ],
 "labels": [
-"B",
-"E"
+"Quality Time",
+"Physical Touch"
 ]
 },
 {
@@ -146,8 +146,8 @@
 "當別人勉強他自己去為我做一件事，我會覺得他很愛我。"
 ],
 "labels": [
-"A",
-"D"
+"Affirmation",
+"Acts of Service"
 ]
 },
 {
@@ -156,8 +156,8 @@
 "我喜歡別人聽我說話，而且表現出興趣十足的樣子。"
 ],
 "labels": [
-"E",
-"B"
+"Physical Touch",
+"Quality Time"
 ]
 },
 {
@@ -166,8 +166,8 @@
 "當拆開朋友或所愛的人送贈的禮物，我會覺得興奮。"
 ],
 "labels": [
-"D",
-"C"
+"Acts of Service",
+"Receiving Gift"
 ]
 },
 {
@@ -176,8 +176,8 @@
 "當別人願意花時間了解我的感受，我會有被愛的感覺。"
 ],
 "labels": [
-"A",
-"B"
+"Affirmation",
+"Quality Time"
 ]
 },
 {
@@ -186,8 +186,8 @@
 "服務的行動讓我覺得被愛。"
 ],
 "labels": [
-"E",
-"D"
+"Physical Touch",
+"Acts of Service"
 ]
 },
 {
@@ -196,8 +196,8 @@
 "我喜歡收到所愛的人為我做的禮物。"
 ],
 "labels": [
-"D",
-"C"
+"Acts of Service",
+"Receiving Gift"
 ]
 },
 {
@@ -206,8 +206,8 @@
 "我很喜歡被人服務的感覺。"
 ],
 "labels": [
-"B",
-"D"
+"Quality Time",
+"Acts of Service"
 ]
 },
 {
@@ -216,8 +216,8 @@
 "在我生日那天，有人對我說或寫出特別的話，我會覺得被愛。"
 ],
 "labels": [
-"C",
-"A"
+"Receiving Gift",
+"Affirmation"
 ]
 },
 {
@@ -226,8 +226,8 @@
 "有人幫我做家務，我會覺得被愛。"
 ],
 "labels": [
-"C",
-"D"
+"Receiving Gift",
+"Acts of Service"
 ]
 },
 {
@@ -236,8 +236,8 @@
 "我很感激有人記得某個特別日子並且送我禮物。"
 ],
 "labels": [
-"B",
-"C"
+"Quality Time",
+"Receiving Gift"
 ]
 },
 {
@@ -246,8 +246,8 @@
 "我喜歡和在我心目中有特殊地位的人一起去逛街、旅行。"
 ],
 "labels": [
-"D",
-"B"
+"Acts of Service",
+"Quality Time"
 ]
 },
 {
@@ -256,8 +256,8 @@
 "有人不為了特別理由而送我禮物，我會覺得很開心。"
 ],
 "labels": [
-"E",
-"C"
+"Physical Touch",
+"Receiving Gift"
 ]
 },
 {
@@ -266,8 +266,8 @@
 "與人交談時，我喜歡對方注視我的眼睛。"
 ],
 "labels": [
-"A",
-"B"
+"Affirmation",
+"Quality Time"
 ]
 },
 {
@@ -276,8 +276,8 @@
 "朋友或所愛的人碰觸我的身體，那種感覺真好。"
 ],
 "labels": [
-"C",
-"E"
+"Receiving Gift",
+"Physical Touch"
 ]
 },
 {
@@ -286,8 +286,8 @@
 "當別人說欣賞我，我會覺得被愛。"
 ],
 "labels": [
-"D",
-"A"
+"Acts of Service",
+"Affirmation"
 ]
 },
 {
@@ -296,8 +296,8 @@
 "我每天都需要肯定的說話。"
 ],
 "labels": [
-"E",
-"A"
+"Physical Touch",
+"Affirmation"
 ]
 }
 ]
